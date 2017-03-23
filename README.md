@@ -1,2 +1,8 @@
-# c-tutorial
-learn to the c program
+// c-tutorial
+//learn to the c program
+#include <stdio.h>
+int main ()
+{
+printf("Hello, World!\n");
+return 0;
+}
